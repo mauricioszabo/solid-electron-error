@@ -1,0 +1,9 @@
+{
+  "name":"solid-with-electron",
+  "scripts": {
+    "start": "electron start.js"
+  },
+  "dependencies": {
+    "electron":"^19.0.7","solid-js":"^1.4.6"
+  }
+}
